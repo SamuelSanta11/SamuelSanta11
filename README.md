@@ -1,5 +1,5 @@
 # 👋 Hola, soy Samuel  
-💻 Desarrollador de software | 🚀 Apasionado por el desarrollo web y de aplicaciones  
+💻 Desarrollador de software en crecimiento | 🚀 Apasionado por el desarrollo web y de aplicaciones  
 
 ### 🚀 Sobre mí  
 - 🎓 Estudiante de programación de software  
