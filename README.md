@@ -4,7 +4,7 @@
 ### 🚀 Sobre mí  
 - 🎓 Estudiante de programación de software  
 - ⚡ Enfocado en la experiencia de usuario y el desarrollo web  
-- 💡 Interesado en el desarrollo de **web, apps y videojuegos**   
+- 💡 Interesado en el desarrollo **web, apps y videojuegos**   
 - 🏋️‍♂️ Siempre buscando mejorar como persona  
 - 🐧 Aprendiendo a manejar **Ubuntu Linux**  
 - 🔥 Explorando **TypeScript** como mi siguiente paso  
